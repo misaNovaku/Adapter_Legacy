@@ -1,0 +1,6 @@
+c:\users\prog_log\documents\visual studio 2015\Projects\Adapter_Legacy\Adapter_Legacy\bin\Debug\Adapter_Legacy.exe.config
+c:\users\prog_log\documents\visual studio 2015\Projects\Adapter_Legacy\Adapter_Legacy\obj\Debug\Adapter_Legacy.csprojResolveAssemblyReference.cache
+c:\users\prog_log\documents\visual studio 2015\Projects\Adapter_Legacy\Adapter_Legacy\bin\Debug\Adapter_Legacy.exe
+c:\users\prog_log\documents\visual studio 2015\Projects\Adapter_Legacy\Adapter_Legacy\bin\Debug\Adapter_Legacy.pdb
+c:\users\prog_log\documents\visual studio 2015\Projects\Adapter_Legacy\Adapter_Legacy\obj\Debug\Adapter_Legacy.exe
+c:\users\prog_log\documents\visual studio 2015\Projects\Adapter_Legacy\Adapter_Legacy\obj\Debug\Adapter_Legacy.pdb
